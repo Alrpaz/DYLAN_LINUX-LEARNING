@@ -82,6 +82,12 @@ drew@DESKTOP-V5D8LV0:~/code$ ./while.sh
  .bashrc is your profile , its in the idden files in the mian directory if you search ls -alhF
  
  
+ adding an addtional line of code if you want to play,
+ 
+ here is the python celcius to farenheit converter i made. This is in python but everything is essentially the same just when you run it you type python3 ./ctof.py
+ 
+ you need to name it .py as a python code.. python is actually way easier than linux
+ 
  
  
  
