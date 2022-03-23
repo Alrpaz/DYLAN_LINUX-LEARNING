@@ -29,6 +29,8 @@ echo " hello world "
 
 
 
+remember, to create the text file we will use ' nano filename.sh (.sh for executable .txt for txt. in linux we do it our way instead of letting win assign it)
+
 (we can play with colorizing and stuff to later on) 
 
 Now, make this a runable script. then play with it and change it and you have wrote script. 
