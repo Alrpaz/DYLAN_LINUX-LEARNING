@@ -1,0 +1,34 @@
+to create your first script... 
+
+the most important is always the first line, it will never run without this , called the , " shebang "
+
+#!bin/bash - this is shabang and how all executable code starts
+
+to understand why, maybe go to /bin/bash and look around :) 
+
+
+#!/bin/bash
+
+YOUR CODE HERE TO EXECUTE
+
+
+_____________
+
+
+nothing is required to end a basic code, certain statements need start and end like 
+
+if
+
+fi
+
+this is not required here just , something to consider.
+
+to create text you will want to create
+
+echo " hello world " 
+
+
+
+(we can play with colorizing and stuff to later on) 
+
+Now, make this a runable script. then play with it and change it and you have wrote script. 
